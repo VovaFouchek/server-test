@@ -1,0 +1,117 @@
+{
+  "moviesSchedule": [
+    {
+      "id": 43534535,
+      "movie": "Oppenheimer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "sessions": [
+        {
+          "date": "2023-10-13 11:00"
+        },
+        {
+          "date": "2023-10-16 15:00"
+        },
+        {
+          "date": "2023-10-17 23:00"
+        }
+      ]
+    },
+    {
+      "id": 4980385,
+      "movie": "Inception",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+      "sessions": [
+        {
+          "date": "2023-10-13 18:00"
+        },
+        {
+          "date": "2023-10-14 16:00"
+        },
+        {
+          "date": "2023-10-14 19:00"
+        },
+        {
+          "date": "2023-10-15 17:30"
+        },
+        {
+          "date": "2023-10-17 19:00"
+        }
+      ]
+    },
+    {
+      "id": 995436344,
+      "movie": "Top Gun: Maverick",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/uk/9/98/Poster_Top_Gun_Maveric_Uk.jpg",
+      "sessions": [
+        {
+          "date": "2023-10-15 12:00"
+        },
+        {
+          "date": "2023-10-16 14:00"
+        },
+        {
+          "date": "2023-10-17 20:00"
+        }
+      ]
+    },
+    {
+      "id": 5646346534,
+      "movie": "The Maze Runner",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg",
+      "sessions": [
+        {
+          "date": "2023-10-16 13:00"
+        },
+        {
+          "date": "2023-10-17 16:00"
+        },
+        {
+          "date": "2023-10-18 18:00"
+        }
+      ]
+    },
+    {
+      "id": 11446436564,
+      "movie": "Interstellar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+      "sessions": [
+        {
+          "date": "2023-10-16 12:00"
+        },
+        {
+          "date": "2023-10-17 15:00"
+        },
+        {
+          "date": "2023-10-18 19:00"
+        }
+      ]
+    }
+  ],
+  "meetingsSchedule": [
+    {
+      "id": 24234234,
+      "date": "2023-10-13 19:00",
+      "task": "Working"
+    },
+    {
+      "id": 4008545,
+      "date": "2023-10-14 16:30",
+      "task": "Studing"
+    },
+    {
+      "id": 77774324,
+      "date": "2023-10-14 22:00",
+      "task": "Meeting"
+    },
+    {
+      "id": 53346645,
+      "date": "2023-10-15 14:00",
+      "task": "Meeting"
+    },
+    {
+      "id": 346456,
+      "date": "2023-10-20 19:00",
+      "task": "Exercises"
+    }
+  ]
+}
